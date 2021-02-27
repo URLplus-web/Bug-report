@@ -1,7 +1,7 @@
-# Official SaveURL+ GitHub page for Bug report 
+# Official SaveL+ page for Bug report 
 
-User can report any bug related information about SaveURL+ in issue section.
-User can also share solution about reported bug in issuse section.
+Report any SaveURL+ bug or any problem which you are facing in SaveURL+
 
-# Other pla
+# Other platform for report bug 
+
 
